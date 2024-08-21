@@ -10,7 +10,7 @@ Importance in the Technology Industry:
 Quality Assurance: Ensures software is reliable and meets user needs.
 Scalability: Facilitates the development of software that can grow with user demands.
 Cost Efficiency: Reduces long-term costs through well-planned and maintainable code.
-Innovation: Drives technological advancements by enabling the creation of complex software systems.
+Innovation: Drives technological advancements by enabling the creation of complex software systems
 Risk Management: Identifies and mitigates potential issues early in the development process.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
